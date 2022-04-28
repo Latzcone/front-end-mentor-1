@@ -1,0 +1,18 @@
+@media only screen and (max-width: 375px) {
+    body {
+        width: 375px;
+    }
+}
+body {
+    background-color: #1C1E21; /* Very Dark Blue  */
+    font-family: 'Overpass', sans-serif;
+    width: 1440px;
+}
+
+h2 {
+    color: #FFFFFF;
+}
+
+p {
+    font-size: 15px;
+}
